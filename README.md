@@ -1,4 +1,4 @@
-# 🤖 Free AI Agents Resources
+# Free AI Agents Resources!
 
 A curated collection of **free and open-source resources** for learning and building AI agents (autonomous agents, LLM-powered agents, multi-agent systems, and agentic AI frameworks). Perfect for beginners to advanced developers.
 
