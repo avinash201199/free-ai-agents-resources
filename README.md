@@ -79,6 +79,9 @@ A curated collection of **free and open-source resources** for learning and buil
 | [Microsoft Developer – AI Agents for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHgKcRjd5-8DT9TbwdlDO-OC) | ⭐ **Best Structured Course**: 14 videos covering fundamentals, frameworks comparison, tool use, memory, planning, multi-agent basics, and deployment. Includes 1-hour compiled version | 14 videos |
 | [Kaggle – 5-Day AI Agents Intensive Course with Google](https://www.youtube.com/playlist?list=PLqFaTIg4myu9r7uRoNfbJhHUbLp-1t1YE) | Free Google-backed intensive on building intelligent/autonomous AI systems with practical exercises | 5 videos |
 
+
+
+
 ### In-Depth Series
 
 | Course | Description | Length |
@@ -96,12 +99,17 @@ A curated collection of **free and open-source resources** for learning and buil
 | [Prof. Martin Hilbert – AI Agents](https://www.youtube.com/playlist?list=PLtjBSCvWCU3pn6s1-H_-0GAxjQA2hC-nr) | Conceptual series from prompts to multi-agent systems, personalization, and real-world contextualization | 7 videos |
 | [Autonomous Agents with CrewAI](https://www.youtube.com/watch?v=MU1GBAoGvks&list=PLv8Cp2NvcY8DeLpPBREcC9aU8ESfYeSeX) | Complete series on building autonomous agents using CrewAI framework — covers roles, tasks, tools, and multi-agent workflows | 10+ videos |
 
+
+
+
 ### Long-Form Deep Dives
 
 | Course | Description | Duration |
 |--------|-------------|----------|
 | [Building AI Agents from Scratch - Full Course (Mehul Choudhary)](https://www.youtube.com/watch?v=1OLrT3dEzhA) | 2+ hour comprehensive walkthrough implementing core patterns (reflection, tool, planning, multi-agent) without heavy frameworks | 2+ hours |
 | [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) | Framework-specific tutorials (e.g., Multi AI Agent Systems with crewAI) — highly praised | Varies |
+| [Complete AI Agents Course – Full Tutorial](https://www.youtube.com/watch?v=3GjE_YAs03s) | Long-form, end-to-end course covering AI agent fundamentals, architectures, tool use, memory, planning, and practical implementations. | 19 hours |
+
 
 ### Creator Channels & Independent Series
 
