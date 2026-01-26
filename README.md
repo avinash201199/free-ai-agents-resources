@@ -78,7 +78,7 @@ A curated collection of **free and open-source resources** for learning and buil
 |--------|-------------|--------|
 | [Microsoft Developer – AI Agents for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHgKcRjd5-8DT9TbwdlDO-OC) | ⭐ **Best Structured Course**: 14 videos covering fundamentals, frameworks comparison, tool use, memory, planning, multi-agent basics, and deployment. Includes 1-hour compiled version | 14 videos |
 | [Kaggle – 5-Day AI Agents Intensive Course with Google](https://www.youtube.com/playlist?list=PLqFaTIg4myu9r7uRoNfbJhHUbLp-1t1YE) | Free Google-backed intensive on building intelligent/autonomous AI systems with practical exercises | 5 videos |
-| [Complete AI Agents Course – Full Tutorial](https://www.youtube.com/watch?v=3GjE_YAs03s) | Long-form, end-to-end AI agents course covering fundamentals, agent architectures, tool calling, memory, planning, and practical implementations. Designed as a single comprehensive walkthrough for beginners who want depth without jumping between multiple videos. | 19h 05m |
+
 
 
 
@@ -98,6 +98,9 @@ A curated collection of **free and open-source resources** for learning and buil
 | [AI Growth Institute – AI Agents](https://www.youtube.com/playlist?list=PLUkRzwZMaL4Fhi_NOGBmbGpT9Jm_YzP8F) | 23-video collection covering agentic workflows, automation with teams, Andrew Ng insights, and emerging trends | 23 videos |
 | [Prof. Martin Hilbert – AI Agents](https://www.youtube.com/playlist?list=PLtjBSCvWCU3pn6s1-H_-0GAxjQA2hC-nr) | Conceptual series from prompts to multi-agent systems, personalization, and real-world contextualization | 7 videos |
 | [Autonomous Agents with CrewAI](https://www.youtube.com/watch?v=MU1GBAoGvks&list=PLv8Cp2NvcY8DeLpPBREcC9aU8ESfYeSeX) | Complete series on building autonomous agents using CrewAI framework — covers roles, tasks, tools, and multi-agent workflows | 10+ videos |
+| [Complete AI Agents Course – Full Tutorial](https://www.youtube.com/watch?v=3GjE_YAs03s) | Long, end-to-end AI agents course covering fundamentals, architectures, tool use, memory, planning, and practical implementations. Single comprehensive walkthrough for beginners seeking deep, hands-on learning without multiple videos. | 19h 05m |
+
+
 
 ### Long-Form Deep Dives
 
