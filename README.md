@@ -98,7 +98,7 @@ A curated collection of **free and open-source resources** for learning and buil
 | [AI Growth Institute – AI Agents](https://www.youtube.com/playlist?list=PLUkRzwZMaL4Fhi_NOGBmbGpT9Jm_YzP8F) | 23-video collection covering agentic workflows, automation with teams, Andrew Ng insights, and emerging trends | 23 videos |
 | [Prof. Martin Hilbert – AI Agents](https://www.youtube.com/playlist?list=PLtjBSCvWCU3pn6s1-H_-0GAxjQA2hC-nr) | Conceptual series from prompts to multi-agent systems, personalization, and real-world contextualization | 7 videos |
 | [Autonomous Agents with CrewAI](https://www.youtube.com/watch?v=MU1GBAoGvks&list=PLv8Cp2NvcY8DeLpPBREcC9aU8ESfYeSeX) | Complete series on building autonomous agents using CrewAI framework — covers roles, tasks, tools, and multi-agent workflows | 10+ videos |
-| [Complete AI Agents Course – Full Tutorial](https://www.youtube.com/watch?v=3GjE_YAs03s) | Long, end-to-end AI agents course covering fundamentals, architectures, tool use, memory, planning, and practical implementations. Single comprehensive walkthrough for beginners seeking deep, hands-on learning without multiple videos. | 19h 05m |
+
 
 
 
@@ -108,6 +108,8 @@ A curated collection of **free and open-source resources** for learning and buil
 |--------|-------------|----------|
 | [Building AI Agents from Scratch - Full Course (Mehul Choudhary)](https://www.youtube.com/watch?v=1OLrT3dEzhA) | 2+ hour comprehensive walkthrough implementing core patterns (reflection, tool, planning, multi-agent) without heavy frameworks | 2+ hours |
 | [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) | Framework-specific tutorials (e.g., Multi AI Agent Systems with crewAI) — highly praised | Varies |
+| [Complete AI Agents Course – Full Tutorial](https://www.youtube.com/watch?v=3GjE_YAs03s) | Long-form, end-to-end course covering AI agent fundamentals, architectures, tool use, memory, planning, and practical implementations. | 19 hours |
+
 
 ### Creator Channels & Independent Series
 
