@@ -64,6 +64,7 @@ A curated collection of **free and open-source resources** for learning and buil
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | Data framework for building LLM apps with RAG, agents, and advanced retrieval — excellent for agentic RAG systems |
 | [geekan/MetaGPT](https://github.com/geekan/MetaGPT) | Multi-agent collaboration framework with role-playing and workflow orchestration — build multi-agent software engineering teams |
 | [embedchain/embedchain](https://github.com/embedchain/embedchain) | Open-source framework for building RAG-powered agents — document ingestion, vector search, agent orchestration |
+| [onestardao/WFGY](https://github.com/onestardao/WFGY/tree/main/ProblemMap#readme) | Open-source framework for debugging and stress testing LLM agents and RAG pipelines, with a 16-problem failure map and reproducible prompt-driven triage workflow |
 | [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) | Visual, no-code AI agent builder — create and run agents through web UI without coding |
 | [aiwaves-cn/agents](https://github.com/aiwaves-cn/agents) | AgentVerse — platform for multi-agent systems, simulations, and research environments |
 | [xlang-ai/Open-Agents](https://github.com/xlang-ai/Open-Agents) | Open-source platform for collaborative agent development with modular architecture |
