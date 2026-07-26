@@ -234,6 +234,7 @@ A curated collection of **free and open-source resources** for learning and buil
 | Resource | Description |
 |----------|-------------|
 | [arXiv: Autonomous Agents](https://arxiv.org/list/cs.AI/recent) | Latest research papers on agent systems, reasoning, and architectures (all free PDFs) |
+| [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) | Open benchmark paper with [code](https://github.com/TIGER-AI-Lab/ClawBench) and a [live project site](https://claw-bench.com/). It shows how to evaluate browser agents on 283 everyday tasks using isolated containers, request interception, synchronized five-layer traces, and replayable evidence, making it a practical resource for studying real-world agent evaluation and reproducibility. |
 | [Semantic Scholar - AI Agents](https://www.semanticscholar.org/) | AI-powered research paper search with free PDFs on agent research |
 | [Papers with Code - Agent Benchmarks](https://paperswithcode.com/task/agent) | Benchmark comparisons and open-source implementations of agent research |
 | [Google Scholar Alerts](https://scholar.google.com/) | Set up free alerts for latest AI agent research papers |
