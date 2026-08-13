@@ -68,6 +68,7 @@ A curated collection of **free and open-source resources** for learning and buil
 | [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) | Visual, no-code AI agent builder — create and run agents through web UI without coding |
 | [aiwaves-cn/agents](https://github.com/aiwaves-cn/agents) | AgentVerse — platform for multi-agent systems, simulations, and research environments |
 | [xlang-ai/Open-Agents](https://github.com/xlang-ai/Open-Agents) | Open-source platform for collaborative agent development with modular architecture |
+| [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) | Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine through a llama.cpp fork — no account or API key needed to install and run. Ships 56 built-in tools (browser, filesystem, git, memory, vision), MCP support, and a five-layer local memory system; macOS, Linux, and Windows. Good for studying agent loops and memory design without cloud costs. Currently a developer preview, so APIs and commands are still moving |
 
 ---
 
