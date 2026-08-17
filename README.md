@@ -50,6 +50,7 @@ A curated collection of **free and open-source resources** for learning and buil
 |------------|-------------|
 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | ⭐ **Best for Beginners**: 12-lesson structured course — fundamentals, architecture, tool use, memory, planning, and building your first agents |
 | [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) | ⭐ **Best for Hands-On Learning**: 45+ Jupyter notebook implementations (basic to advanced) covering conversational AI, multi-agent systems, RAG, task management, and more. Uses LangChain, LangGraph, CrewAI, AutoGen, OpenAI Swarm, etc. Includes Discord/subreddit community support |
+| [fcavalcantirj/agentic-ai-crash-course](https://github.com/fcavalcantirj/agentic-ai-crash-course) | ⭐ **Best for First Principles**: ~90-min, framework-agnostic mental model of how agents actually work — generative AI, context window, the agent loop & harness, tools/MCP, memory & context engineering, what agentic AI is and its types, multi-agent & handoff, and autonomous agents — then a build-and-ship capstone. MIT-licensed |
 
 ### Frameworks & Tools
 
