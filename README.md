@@ -154,6 +154,7 @@ A curated collection of **free and open-source resources** for learning and buil
 | [Papers with Code - Agents Section](https://paperswithcode.com/) | Open-source implementations of agent research papers with code and benchmarks |
 | [Model Cards & Agent Benchmarks](https://huggingface.co/models?task=agent) | Hugging Face curated agent-ready models with performance benchmarks |
 | [GitHub Trending - AI Agents](https://github.com/trending?spoken_language_code=&d=weekly) | Weekly trending agent projects and frameworks |
+| [AgentHub](https://myagenthub.cn) | Chinese directory for discovering MCP servers and agent skills, with one-click install for Cursor, Claude Code, VS Code and Trae |
 
 ---
 
