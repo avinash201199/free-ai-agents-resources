@@ -50,6 +50,7 @@ A curated collection of **free and open-source resources** for learning and buil
 |------------|-------------|
 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | ⭐ **Best for Beginners**: 12-lesson structured course — fundamentals, architecture, tool use, memory, planning, and building your first agents |
 | [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) | ⭐ **Best for Hands-On Learning**: 45+ Jupyter notebook implementations (basic to advanced) covering conversational AI, multi-agent systems, RAG, task management, and more. Uses LangChain, LangGraph, CrewAI, AutoGen, OpenAI Swarm, etc. Includes Discord/subreddit community support |
+| [Rituparno-Majumdar/argus](https://github.com/Rituparno-Majumdar/argus) | Documentation-only reference architecture for a self-hosted, always-on autonomous agent fleet — covers the messaging-gateway/dispatch split, a consolidated monitoring daemon, approval-gated autonomy, and a persistent-goal engine, plus an 8-phase interview your own coding CLI runs on you to help scaffold an equivalent system. Includes a sourced cost breakdown and an honest capability comparison against commercial always-on agent products. |
 
 ### Frameworks & Tools
 
